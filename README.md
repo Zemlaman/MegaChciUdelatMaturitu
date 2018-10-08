@@ -1,2 +1,2 @@
 # MegaChciUdelatMaturitu
-úplně první repo my niBBa :)
+úplně první repo  :)
